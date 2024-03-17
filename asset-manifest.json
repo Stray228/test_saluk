@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.16425549.css",
+    "main.js": "/static/js/main.4dba9e40.js",
+    "static/js/453.36736481.chunk.js": "/static/js/453.36736481.chunk.js",
+    "static/media/item.svg": "/static/media/item.c69c649f9acc5f12d2e764b2efa4c823.svg",
+    "static/media/sliderIntro.png": "/static/media/sliderIntro.6bd2a878f3698a682d22.png",
+    "static/media/catalog.png": "/static/media/catalog.7dfbe12192108bb57249.png",
+    "static/media/item3.png": "/static/media/item3.48113033d32c21c5999f.png",
+    "static/media/item2.png": "/static/media/item2.18a6a5e471860693e183.png",
+    "static/media/item1.png": "/static/media/item1.96d19558bc3bc9f17851.png",
+    "static/media/viber.svg": "/static/media/viber.7a08b2ab28e1d10425cddfafdbc74d6d.svg",
+    "static/media/cart.svg": "/static/media/cart.4c6e5b7230a2825ba1ca03870e8997c9.svg",
+    "static/media/star.svg": "/static/media/star.260f2ecdcfe1b67c317689f20b040bee.svg",
+    "static/media/star_fill.svg": "/static/media/star_fill.866217b7dd1ad1644ae1c8bb7c9d9a73.svg",
+    "static/media/telegram.svg": "/static/media/telegram.db68e400b43ceb16b9a333f19ff02b0d.svg",
+    "index.html": "/index.html",
+    "static/media/heart.svg": "/static/media/heart.9cca38df212a78e875aca8870aa397c2.svg",
+    "static/media/instagram.svg": "/static/media/instagram.e34de737bda68c303e3e3b850cef3dab.svg",
+    "static/media/like.svg": "/static/media/like.06ad5e9cdc412c1822f3cbd83f8d3b88.svg",
+    "static/media/search.svg": "/static/media/search.88d53e1a8aa4c4bd24bf322060e7f311.svg",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.c606a29c242bdd25585b.svg",
+    "static/media/arrow-left.svg": "/static/media/arrow-left.a93a17c9c76783670d61.svg",
+    "static/media/arrow-right-slider-disabled.svg": "/static/media/arrow-right-slider-disabled.64f2a84975d076099a5b.svg",
+    "static/media/arrow-right-slider.svg": "/static/media/arrow-right-slider.55335432f62b14f0750b8ff238c17f8e.svg",
+    "static/media/arrow-left-slider-disabled.svg": "/static/media/arrow-left-slider-disabled.2dd36e8e4aa5e945f48b.svg",
+    "static/media/arrow-left-slider.svg": "/static/media/arrow-left-slider.7a7640a63967a07797d9fe93ed158ad0.svg",
+    "main.16425549.css.map": "/static/css/main.16425549.css.map",
+    "main.4dba9e40.js.map": "/static/js/main.4dba9e40.js.map",
+    "453.36736481.chunk.js.map": "/static/js/453.36736481.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16425549.css",
+    "static/js/main.4dba9e40.js"
+  ]
+}
