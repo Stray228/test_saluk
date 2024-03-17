@@ -1,0 +1,43 @@
+.cardImg {
+  position: relative;
+  border-radius: 3px;
+  margin-bottom: 2px;
+}
+.cardHeart {
+  position: absolute;
+  right: 10px;
+  top: 11px;
+  cursor: pointer;
+}
+.title {
+  font-size: 20px;
+  line-height: 130%;
+  font-weight: 500;
+  font-variant: small-caps;
+  color: var(--black-80);
+  margin-bottom: 9px;
+  letter-spacing: 0.8px;
+}
+.navText {
+  font-variant: small-caps;
+  color: var(--black-60);
+  margin-bottom: 10px;
+  letter-spacing: 0.6px;
+  margin-bottom: 0;
+}
+.text {
+  font-variant: small-caps;
+  color: var(--black-60);
+  line-height: 1;
+  margin-bottom: 17px;
+  letter-spacing: 0.6px;
+  margin-bottom: 1px;
+}
+.priceItem {
+  font-size: 20px;
+  line-height: 200%;
+  font-weight: 700;
+  font-variant: small-caps;
+  color: #4aaa4e;
+  letter-spacing: 0.3px;
+}

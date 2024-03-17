@@ -1,0 +1,31 @@
+.footerNav {
+  background: var(--black-80);
+}
+.container {
+  max-width: 1366px;
+  margin: 0 auto;
+  padding: 35px 98px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav {
+  display: flex;
+}
+.item {
+  font-variant: small-caps;
+  color: var(--white);
+  margin-right: 30px;
+  letter-spacing: 0.7px;
+  cursor: pointer;
+  &:last-child {
+    margin-right: 0;
+  }
+}
+.reg {
+  font-size: 12px;
+  line-height: 133%;
+  font-variant: small-caps;
+  color: var(--white);
+  letter-spacing: 0.2px;
+}
